@@ -1,0 +1,12 @@
+{
+    "name" : "Scrap Bootcamp 2",
+    "description" : "Get profile information",
+    "version" : "1.0",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"/App/index.html"
+    },
+    "permissions":[
+        "activeTab","scripting"
+    ]
+}
